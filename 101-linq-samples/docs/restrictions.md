@@ -33,7 +33,8 @@ This sample uses where to find all customers in Washington and then uses the res
 
 This sample demonstrates an indexed Where clause that returns digits whose name is shorter than their value.
 
-``` cs --region where-indexed --source-file ../src/Restrictions.cs --project ../src/Try101LinqSamples.csproj
+``` 
+cs --region where-indexed --source-file ../src/Restrictions.cs --project ../src/Try101LinqSamples.csproj
 ```
 
 Notice that this final example shows the `Where` method rather than the `where` clause. The two forms are equivalent.
